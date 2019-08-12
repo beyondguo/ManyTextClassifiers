@@ -1,6 +1,6 @@
 # ManyTextClassifiers
 Here, I record many useful text classifiers. Most of them are implemented in Keras.
-I try to use the simplest codes for each model, which aims to deliver to main ideas behind each model.
+I try to use the simplest codes for each model, which aims to deliver the main ideas behind each model.
 
 List of models implemented:
 - Basic Unsupervised W2V approach
